@@ -5,5 +5,5 @@
 本产品使用智腾云联旗下云产品开发，官网地址https://gudidc.com/aff/EYNLZPWQ
 。所有权归自由如风（zyrf）所有。
 使用方法：
-安装python（确保添加到path）并且运行命令pip install playwright和playwright install，如出现未知的命令playwright，请将安装的路径（在输出中包括not,path前面的路径）添加到用户path和系统path然后重启cmd执行playwright --version查看是否有类似于Version 1.56.0的输出请不要重复执行playwright install有可能会导致没有输出。
+安装python（确保添加到path）并且运行命令pip install playwright和playwright install，如出现未知的命令playwright，请将安装的路径（在输出中包括not,path前面的路径）添加到用户path和系统path然后重启cmd执行playwright --version查看是否有类似于Version 1.56.0的输出，请不要重复执行playwright install有可能会导致没有输出。
 如有其他报错请录屏并提交issue或向up主的b站私信（uid：3494356887538374）。
